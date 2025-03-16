@@ -34,9 +34,9 @@ func EvaluatePrefixExpression(expression string) (float64, error) {
 			case "+":
 				res = op1 + op2
 			case "-":
-				res = op1 + op2
+				res = op1 - op2
 			case "*":
-				res = op1 + op2
+				res = op1 * op2
 			case "/":
 				if op2 == 0 {
 					return 0, errors.New("division by zero")
