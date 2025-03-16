@@ -1,4 +1,12 @@
-Шаблон для 2-гої роботи з архітектури ПЗ
+# kpi3-lab2
+
+This project is a simple Go application that evaluates prefix expressions
 ---
 
-Використайте кнопку **"Use this template"**, щоб створити власний репозиторій
+## Build Status
+
+### Successful Build
+https://github.com/Crosshell/kpi3-lab2/actions/runs/13885298646
+
+### Failed Build
+https://github.com/Crosshell/kpi3-lab2/actions/runs/13885290616
